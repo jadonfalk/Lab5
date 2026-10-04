@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <UnityManagedPath>C:\Program Files\Unity\Hub\Editor\YOUR_VERSION\Editor\Data\Managed</UnityManagedPath>
+  </PropertyGroup>
+</Project>
